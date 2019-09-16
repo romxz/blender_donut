@@ -1,7 +1,6 @@
 # blender_donut
 
-Making a 3D donut with blender.
+Making a [3D donut](https://www.youtube.com/user/AndrewPPrice/videos) with [Blender 2.8](https://www.blender.org), a free and open 3D creation suite.
 
-Following the tutorial for Blender 2.8 by Blender Guru
-
+Donut is rendered using cycles and a denoising filter (removes graininess). Looks pretty delicious if you ask me:
 ![Rendered Donut](Level%202/Donut_Texture_Tutorial_bumps_shadow_2.png "Rendered Donut")
